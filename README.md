@@ -8,9 +8,9 @@ Discord Bot, that logs sent messages, deleted messages and edited messages.
 2. Install [Git](https://gitforwindows.org/).
 3. Open Git Bash by right-clicking an empty space inside of a folder and clicking ```Git Bash here```.
 4. Run the following commands in the command window:
-  1. ```git clone https://github.com/FrachlitzStudio/DiscordMessageLogger.git```
-  2. ```cd DiscordMessageLogger```
-  3. ```npm install```
+  * ```git clone https://github.com/FrachlitzStudio/DiscordMessageLogger.git```
+  * ```cd DiscordMessageLogger```
+  * ```npm install```
 5. Edit the ```config.json``` file.
 
 ## Starting the bot
