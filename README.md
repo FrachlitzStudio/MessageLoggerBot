@@ -18,7 +18,7 @@ Discord Bot, that logs sent messages, deleted messages and edited messages.
 Open command prompt and type ```node bot.js```.
 
 ## Logs preview
-![Preview](https://imgur.com/JKTyHWI)
+![Preview](https://i.imgur.com/JKTyHWI.png)
 
 ## Contacts
 Discord: FrachlitzStudio#0392
