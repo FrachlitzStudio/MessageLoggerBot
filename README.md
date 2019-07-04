@@ -1,7 +1,8 @@
 # Discord Message Logger Bot
 
 ## About
-Discord Bot, that logs sent messages, deleted messages and edited messages.
+Discord Bot, that logs sent messages, deleted messages and edited messages. 
+**This bot saves not only messages, but also images/files.**
 
 ## Installation
 1. Install [Node.js](https://nodejs.org/).
@@ -15,6 +16,9 @@ Discord Bot, that logs sent messages, deleted messages and edited messages.
 
 ## Starting the bot
 Open command prompt and type ```node bot.js```.
+
+## Logs preview
+![Preview](https://imgur.com/JKTyHWI)
 
 ## Contacts
 Discord: FrachlitzStudio#0392
