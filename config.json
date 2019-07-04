@@ -1,0 +1,5 @@
+{
+    "prefix": "BOT PREFIX",
+    "token": "BOT TOKEN",
+    "logsChannel": "CHANNEL ID"
+}
