@@ -15,7 +15,7 @@ Discord Bot, that logs sent messages, deleted messages and edited messages.
 5. Edit the ```config.json``` file.
 
 ## Starting the bot
-Open command prompt and type ```node bot.js```.
+Open command prompt and type ```node bot.js``` or just open the ```start.bat``` file.
 
 ## Logs preview
 ![Preview](https://i.imgur.com/JKTyHWI.png)
