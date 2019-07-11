@@ -12,8 +12,7 @@ Discord Bot, that logs sent messages, deleted messages and edited messages.
   * ```git clone https://github.com/FrachlitzStudio/DiscordMessageLogger.git```
   * ```cd DiscordMessageLogger```
   * ```npm install```
-5. Edit the ```config.json``` file.  
-PS. If you want to add servers to the blacklist, also edit the ```selfbot.js``` file. The instruction is inside this file.
+5. Edit the ```config.json``` file.
 
 ## Starting the bot
 Open command prompt and type ```node bot.js``` or just open the ```start.bat``` file.
