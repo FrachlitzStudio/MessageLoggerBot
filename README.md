@@ -1,7 +1,7 @@
 # Discord Message Logger Bot
 
 ## About
-Discord Bot, that logs sent messages, deleted messages and edited messages. 
+Discord Bot, that logs sent messages, deleted messages and edited messages.  
 **This bot saves not only messages, but also images/files.**
 
 ## Installation
@@ -12,7 +12,7 @@ Discord Bot, that logs sent messages, deleted messages and edited messages.
   * ```git clone https://github.com/FrachlitzStudio/DiscordMessageLogger.git```
   * ```cd DiscordMessageLogger```
   * ```npm install```
-5. Edit the ```config.json``` file.
+5. Edit the ```config.json``` file.  
 PS. If you want to add servers to the blacklist, also edit the ```selfbot.js``` file. The instruction is inside this file.
 
 ## Starting the bot
